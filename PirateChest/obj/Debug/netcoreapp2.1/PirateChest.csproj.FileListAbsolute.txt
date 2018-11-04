@@ -1,0 +1,11 @@
+C:\Users\heber\source\repos\PirateChest\PirateChest\bin\Debug\netcoreapp2.1\PirateChest.deps.json
+C:\Users\heber\source\repos\PirateChest\PirateChest\bin\Debug\netcoreapp2.1\PirateChest.runtimeconfig.json
+C:\Users\heber\source\repos\PirateChest\PirateChest\bin\Debug\netcoreapp2.1\PirateChest.runtimeconfig.dev.json
+C:\Users\heber\source\repos\PirateChest\PirateChest\bin\Debug\netcoreapp2.1\PirateChest.dll
+C:\Users\heber\source\repos\PirateChest\PirateChest\bin\Debug\netcoreapp2.1\PirateChest.pdb
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.csprojAssemblyReference.cache
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.AssemblyInfo.cs
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.dll
+C:\Users\heber\source\repos\PirateChest\PirateChest\obj\Debug\netcoreapp2.1\PirateChest.pdb
